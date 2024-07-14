@@ -1,0 +1,35 @@
+﻿  Main.cpp
+C:\JHG\AiV_VisionSW_JungHoGyun\opencv\build\include\opencv2\core.hpp(1743,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\JHG\AiV_VisionSW_JungHoGyun\opencv\build\include\opencv2\core.hpp(1743,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+C:\JHG\AiV_VisionSW_JungHoGyun\opencv\build\include\opencv2\core.hpp(1743,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Main.cpp'을(를) 컴파일하는 중)
+  
+  Process.cpp
+C:\JHG\AiV_VisionSW_JungHoGyun\opencv\build\include\opencv2\core.hpp(1743,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Process.cpp'을(를) 컴파일하는 중)
+  
+C:\JHG\AiV_VisionSW_JungHoGyun\opencv\build\include\opencv2\core.hpp(1743,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Process.cpp'을(를) 컴파일하는 중)
+  
+C:\JHG\AiV_VisionSW_JungHoGyun\opencv\build\include\opencv2\core.hpp(1743,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Process.cpp'을(를) 컴파일하는 중)
+  
+C:\JHG\AiV_VisionSW_JungHoGyun\AiV_VisionSW_JungHoGyun\Process.cpp(29,36): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\JHG\AiV_VisionSW_JungHoGyun\AiV_VisionSW_JungHoGyun\Process.cpp(33,32): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\JHG\AiV_VisionSW_JungHoGyun\AiV_VisionSW_JungHoGyun\Process.cpp(186,20): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  image_object.cpp
+C:\JHG\AiV_VisionSW_JungHoGyun\opencv\build\include\opencv2\core.hpp(1743,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'image_object.cpp'을(를) 컴파일하는 중)
+  
+C:\JHG\AiV_VisionSW_JungHoGyun\opencv\build\include\opencv2\core.hpp(1743,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'image_object.cpp'을(를) 컴파일하는 중)
+  
+C:\JHG\AiV_VisionSW_JungHoGyun\opencv\build\include\opencv2\core.hpp(1743,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'image_object.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  AiV_VisionSW_JungHoGyun.vcxproj -> C:\JHG\AiV_VisionSW_JungHoGyun\x64\Debug\AiV_VisionSW_JungHoGyun.exe
