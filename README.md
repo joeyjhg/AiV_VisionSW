@@ -1,4 +1,8 @@
+# 크기가 큰 파일이 있어 lfs를 사용했습니다.
 
+## 설정 방법
+
+```sh
 # 압축을 푼 디렉토리로 이동
 cd %USERPROFILE%\Desktop\AiV_VisionSW-master
 
@@ -16,4 +20,3 @@ git lfs ls-files
 
 # Git LFS 파일 다운로드
 git lfs pull
-
